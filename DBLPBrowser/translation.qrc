@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DBLPBrowser_zh_CN.ts</file>
+    </qresource>
+</RCC>
