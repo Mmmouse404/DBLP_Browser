@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.jpg</file>
+        <file>author.png</file>
+        <file>background.qrc</file>
+        <file>clear.png</file>
+        <file>dblpicon.ico</file>
+        <file>exit.png</file>
+        <file>fuzzy.png</file>
+        <file>fuzzyopen.png</file>
+        <file>group.png</file>
+        <file>IconParkHelp.png</file>
+        <file>keyword.png</file>
+        <file>language.png</file>
+        <file>open.png</file>
+        <file>save.png</file>
+        <file>setting.png</file>
+        <file>view.png</file>
+        <file>mouse.png</file>
+        <file>search.png</file>
+    </qresource>
+</RCC>
